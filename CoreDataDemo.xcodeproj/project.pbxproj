@@ -210,6 +210,7 @@
 				TargetAttributes = {
 					F6ABC9FE1E5BF94F0000BF6E = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 3465R5QTQ8;
 						ProvisioningStyle = Automatic;
 					};
 					F6ABCA1A1E5BF94F0000BF6E = {
@@ -428,6 +429,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3465R5QTQ8;
 				INFOPLIST_FILE = CoreDataDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.NeoRays.CoreDataDemo;
@@ -439,6 +441,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 3465R5QTQ8;
 				INFOPLIST_FILE = CoreDataDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.NeoRays.CoreDataDemo;
@@ -511,6 +514,7 @@
 				F6ABCA311E5BF94F0000BF6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6ABCA321E5BF94F0000BF6E /* Build configuration list for PBXNativeTarget "CoreDataDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +523,7 @@
 				F6ABCA341E5BF94F0000BF6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F6ABCA351E5BF94F0000BF6E /* Build configuration list for PBXNativeTarget "CoreDataDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -527,6 +532,7 @@
 				F6ABCA371E5BF94F0000BF6E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 

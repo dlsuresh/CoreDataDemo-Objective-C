@@ -8,8 +8,11 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController<UITableViewDelegate,UITableViewDataSource>
 
+@property (strong, nonatomic) IBOutlet UITextField *textField;
+- (IBAction)addTex:(id)sender;
+@property (strong, nonatomic) IBOutlet UITableView *tableView;
 
 @end
 
